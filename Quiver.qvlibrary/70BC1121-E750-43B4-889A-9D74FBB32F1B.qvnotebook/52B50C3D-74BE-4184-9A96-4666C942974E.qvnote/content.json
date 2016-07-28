@@ -1,0 +1,9 @@
+{
+  "title": "Plan",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "# Computer Science\n## Data Structures\n## Algorithms\n\n\n# Languages\n## JavaScript\n## HTML\n## CSS\n## SQL\n\n\n# Frameworks & Libraries\n## Node\n## Express\n## Angular\n## Sequelize\n## jQuery\n\n\n# Interview Questions\n## Behavioral\n## Technical - CS\n## Technical - Code\n\n"
+    }
+  ]
+}
