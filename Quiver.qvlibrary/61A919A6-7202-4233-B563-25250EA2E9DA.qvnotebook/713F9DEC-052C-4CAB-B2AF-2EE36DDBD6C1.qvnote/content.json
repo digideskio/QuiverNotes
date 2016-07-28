@@ -1,0 +1,9 @@
+{
+  "title": "DS-Overview",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "## Introduction and Efficiency\nCourse Introduction\nSyntax\nEfficiency\nNotation of Efficiency\n\n## List-Based Collections\nLists/Arrays\nLinked Lists\nStacks\nQueues\n\n## Searching and Sorting\nBinary Search\nRecursion\nBubble Sort\nMerge Sort\nQuick Sort\n\n## Maps and Hashing\nMaps\nHashing\nCollisions\nHashing Conventions\n\n## Trees\nTrees\nTree Traversal\nBinary Trees\nBinary Search Trees\nHeaps\nSelf-Balancing Trees\n\n## Graphs\nGraphs\nGraph Properties\nGraph Representation\nGraph Traversal\nGraph Paths\n\n## Case Studies in Algorithms\nShortest Path Problem\nKnapsack Problem\nTraveling Salesman Problem\n\n## Technical Interview Tips\nMock Interview Breakdown\nAdditional Tips\nPractice with Pramp\nNext Steps"
+    }
+  ]
+}

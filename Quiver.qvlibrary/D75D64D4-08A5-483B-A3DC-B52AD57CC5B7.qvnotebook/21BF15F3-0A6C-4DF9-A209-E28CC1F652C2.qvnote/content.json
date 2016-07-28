@@ -1,0 +1,9 @@
+{
+  "title": "BestPractices",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "## Test as you go\n- Code a little, then test.\n- In the end, this saves time and frustration because if a test fails, you know that error is rooted in the little bit of new code you just wrote.\n- Otherwise, you have to search through a lot of code, find an error, run the code again only to see that it still fails, search to find another error, and so on.\n\n## Plotting\n- Data visualizes that relates size of input to runtime.\n- Helps determine how good a program is.\n- Want to avoid exponential plots."
+    }
+  ]
+}

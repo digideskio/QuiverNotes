@@ -1,0 +1,9 @@
+{
+  "title": "Scope",
+  "cells": [
+    {
+      "type": "markdown",
+      "data": "## Scope\n\n## Hoisting\n\n## Closure\n\n## Examples\nsource: [Answering Baranovskiy’s JavaScript quiz](https://www.nczonline.net/blog/2010/01/26/answering-baranovskiys-javascript-quiz/)"
+    }
+  ]
+}
