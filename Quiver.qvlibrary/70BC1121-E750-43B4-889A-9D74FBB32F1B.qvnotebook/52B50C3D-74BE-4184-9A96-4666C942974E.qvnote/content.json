@@ -3,7 +3,7 @@
   "cells": [
     {
       "type": "markdown",
-      "data": "# Computer Science\n## Data Structures\n## Algorithms\n\n\n# Languages\n## JavaScript\n## HTML\n## CSS\n## SQL\n\n\n# Frameworks & Libraries\n## Node\n## Express\n## Angular\n## Sequelize\n## jQuery\n\n\n# Interview Questions\n## Behavioral\n## Technical - CS\n## Technical - Code\n\n"
+      "data": "# Preliminary\n- [ ] Consolidate GHA links\n- [ ] Collect interview questions\n- [ ] Research computer science resources\n  - [x] online courses\n  - [ ] books\n  - [ ] websites\n- [ ] Research interview resources\n- [ ] Sort through GHA workshops\n- [ ] Make prep schedule\n- [ ] Buy materials\n- [ ] Make learning workflow\n\n\n\n\n# Computer Science\n## Data Structures\n## Algorithms\n\n\n# Languages\n## JavaScript\n## HTML\n## CSS\n## SQL\n\n\n# Frameworks & Libraries\n## Node\n## Express\n## Angular\n## Sequelize\n## jQuery\n\n\n# Interview Questions\n## Behavioral\n## Technical - CS\n## Technical - Code\n\n"
     }
   ]
 }
